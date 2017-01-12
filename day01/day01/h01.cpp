@@ -26,7 +26,7 @@ void main02() {
 
 
 //求圆的面积
-//（面向过程的方式）
+//（面向对象的方式）
 class MyCicle {//在C++中定义一个自定义数据类型
 public:
 	double m_s;
