@@ -18,5 +18,8 @@
     <ClCompile Include="MyCicle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Namespace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

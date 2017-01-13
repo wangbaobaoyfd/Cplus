@@ -43,7 +43,7 @@ public:
 		return m_s;
 	}
 };
-void main() {
+void main03() {
 	MyCicle c1;
 	double r;
 	cout << "ÇëÊäÈëC1°ë¾¶£º";
